@@ -1,50 +1,46 @@
-# Frontend
-Create a one page application following the LO-FIs given in this assignment.
+# Getting Started with Create React App
 
-We suggest to use create-react-app typescript for your setup.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## LO-FI
-Remember these are LO-FI and should only be treated as such.
-![lofi](https://raw.githubusercontent.com/runekr/recruit-react/master/lofi.png)
+## Available Scripts
 
-## Spec
-These are the only functional requirements for your implementation:
+In the project directory, you can run:
 
-### Navigation
-- Click on burger icon shows menu
-- Click on back shows register card form 
+### `npm start`
 
-### Inputs
-- Credit card field is any number
-- CVC is any number
-- Expires is any valid date
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-### Submit
-- You cannot submit until input fields
-- When submitting then console log the input values
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-## Commits
-Please commit frequently to communicate your thoughts while working on this assignment.
+### `npm test`
 
-## What is valued
-- Tests
-- Clean Code
-- State Management
-- Design (Responsive)
-- Accessibility
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## Duration
-Use roughly 3 hours on this assignment. You are only expected to do work on this assignment that matches the skill level of the role you are applying for, but you are welcome to do as much as you like. You are not necessarily expected to do everything in this assignment because of the short time duration of the assignment.
+### `npm build`
 
-## Tools
-You are encouraged to use anything you can find on the internet except from other people's solution to this assignment. 
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## Tech
-You need to use at least these: 
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-- React
-- Typescript
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-# Backend
+### `npm eject`
 
-[Backend test instructions](https://github.com/alessandromoura/recruit-backend)
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).

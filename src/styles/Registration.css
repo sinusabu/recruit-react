@@ -1,0 +1,40 @@
+.Registration{
+    text-align: left;
+    font-size: 0.91rem;
+}
+
+.RegistrationError{
+    color: red;
+    font-size: 0.8rem;
+}
+
+.Registration-form form {
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+    width: inherit;
+}
+
+.Registration-table {
+    width: -webkit-fill-available;
+}
+
+.Registration-table thead tbody{
+    margin-left: 1rem;
+    width: auto;
+}
+
+.Registration-table tr td {
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    text-align:left;
+}
+
+.Registration-table tr th {
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 4rem;
+    text-align:left;
+}

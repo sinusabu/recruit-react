@@ -1,0 +1,17 @@
+.Header{
+    height: 30;
+    text-align: left;
+    padding-bottom: 2rem;
+}
+
+.Header-title{
+    text-align: center;
+    vertical-align: middle;
+    float: right;
+    padding: 10px;
+}
+.Header-logo{
+    height: 8vmin;
+    pointer-events: none;
+    cursor: crosshair;
+}
